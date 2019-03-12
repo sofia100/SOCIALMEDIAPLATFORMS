@@ -7,5 +7,9 @@
     <string name="signin_linkedin">SIGN IN USING LINKEDIN</string>
     <string name="signin_facebook">SIGN IN USING FACEBOOK</string>
     <string name="signin_google">SIGN IN USING GOOGLE</string>
+    <string name="facebook_app_id">401114227120414</string>
+    <string name="fb_login_protocol_scheme">fb401114227120414</string>
+
     <string name="signin_twitter">SIGN IN USING TWITTER</string>
+    <string name="login_status">login status</string>
 </resources>

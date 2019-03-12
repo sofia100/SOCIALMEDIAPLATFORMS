@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SOCIAL MEDIA PLATFORMS</string>
+    <string name="logout">LOGOUT</string>
+    <string name="open_my_profile">OPEN MY PROFILE</string>
+    <string name="share">SHARE</string>
+    <string name="open_others_profile">OPEN OTHERS PROFILE</string>
+    <string name="signin_linkedin">SIGN IN USING LINKEDIN</string>
+    <string name="signin_facebook">SIGN IN USING FACEBOOK</string>
+    <string name="signin_google">SIGN IN USING GOOGLE</string>
+    <string name="signin_twitter">SIGN IN USING TWITTER</string>
+</resources>

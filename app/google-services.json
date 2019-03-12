@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "681960103057",
+    "firebase_url": "https://social-media-a7beb.firebaseio.com",
+    "project_id": "social-media-a7beb",
+    "storage_bucket": "social-media-a7beb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681960103057:android:875826f41b75eba4",
+        "android_client_info": {
+          "package_name": "com.example.android.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681960103057-iaq4f7e062d45p3dknbfm23h7amh4lt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.myapplication",
+            "certificate_hash": "4923ffaed5c54726b57f5c7482d7e2056faf0ea3"
+          }
+        },
+        {
+          "client_id": "681960103057-q3jur98t9banfspd22sg57lor8n6vmon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIGV5php7Cd8yf3vqJbCbY5owXz7TfhsU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681960103057-q3jur98t9banfspd22sg57lor8n6vmon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681960103057:android:faded0d7144bc836",
+        "android_client_info": {
+          "package_name": "com.example.android.socialmediaplatforms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681960103057-o0n6tsmmak6gnln2117mqrt1klq1up6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.socialmediaplatforms",
+            "certificate_hash": "4923ffaed5c54726b57f5c7482d7e2056faf0ea3"
+          }
+        },
+        {
+          "client_id": "681960103057-q3jur98t9banfspd22sg57lor8n6vmon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIGV5php7Cd8yf3vqJbCbY5owXz7TfhsU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681960103057-q3jur98t9banfspd22sg57lor8n6vmon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

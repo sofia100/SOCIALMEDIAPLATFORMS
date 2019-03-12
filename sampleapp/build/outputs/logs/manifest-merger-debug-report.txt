@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [:linkedin-sdk] C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\linkedin-sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\88c4c5fc2af150de0b755aacfd62d47c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\1efee41898ddc94ba8c2dc325d329265\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\ddd1502447e2437892c7305422b35411\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\34edf14f06f936d765d0723a240d49c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\332738d53d881ff030125592a453ae29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\b70b3393932c553d5a91c6c4a0256473\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\777b6dc08ddc5380759a6eb79bb19891\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\d166a8ffd1e137c2517146ccba3d726d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d6832c48622bccf5078b267ab0489427\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\7f759dea296332d8292533c75bcad289\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\30a9fdcb73a247744d0c4d1128089132\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\c1a15590e2cdd9a5201931dfa168479f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\5bf7987fe863fcf594f355a8829adcc6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\6aae1ae0a29856538d66c62fb8f2977c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\778dded80d4020e7b6033cc66fb51ec7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\66c2506dc8efedc7840b3acaf991af97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\92fefd1ac11b810755b24d32e1719967\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6135de56568ba371d766855a3ca50004\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cc81f7021502b0111b075649ae937c12\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bde5b53f2f7e00a459e3fc59de83377c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e2a440b379864860fb92de60c6c14a59\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\f7afa649be8f10d42356897c631cc1fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0b278676ce4066a54bbdc711a568b690\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a46cd3a019fbd8b1518c575663235f67\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\487cbd312d21b0565361e7963b365a8d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3c5dec58d05f026da84171fabe187636\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f579896355bcde89c69996631f309d60\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3766673450c35e09583049594045adf3\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:3:5-54
+	android:versionName
+		INJECTED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:5:5-26:19
+MERGED from [:linkedin-sdk] C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\linkedin-sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-20
+MERGED from [:linkedin-sdk] C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\linkedin-sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\92fefd1ac11b810755b24d32e1719967\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\92fefd1ac11b810755b24d32e1719967\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6135de56568ba371d766855a3ca50004\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6135de56568ba371d766855a3ca50004\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\92fefd1ac11b810755b24d32e1719967\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:7:9-45
+	android:allowBackup
+		ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:6:9-35
+activity#com.linkedin.android.mobilesdksampleapp.MainActivity
+ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:9:9-17:20
+	android:label
+		ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:11:13-45
+	android:name
+		ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:10:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:15:27-74
+activity#com.linkedin.android.mobilesdksampleapp.DeepLinkActivity
+ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:18:9-21:20
+	android:label
+		ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:20:13-60
+	android:name
+		ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:19:13-45
+activity#com.linkedin.android.mobilesdksampleapp.ApiActivity
+ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:22:9-25:20
+	android:label
+		ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:24:13-55
+	android:name
+		ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml:23:13-40
+uses-sdk
+INJECTED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml
+MERGED from [:linkedin-sdk] C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\linkedin-sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:linkedin-sdk] C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\linkedin-sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\88c4c5fc2af150de0b755aacfd62d47c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\88c4c5fc2af150de0b755aacfd62d47c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\1efee41898ddc94ba8c2dc325d329265\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\1efee41898ddc94ba8c2dc325d329265\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\ddd1502447e2437892c7305422b35411\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\ddd1502447e2437892c7305422b35411\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\34edf14f06f936d765d0723a240d49c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\34edf14f06f936d765d0723a240d49c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\332738d53d881ff030125592a453ae29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\332738d53d881ff030125592a453ae29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\b70b3393932c553d5a91c6c4a0256473\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\b70b3393932c553d5a91c6c4a0256473\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\777b6dc08ddc5380759a6eb79bb19891\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\777b6dc08ddc5380759a6eb79bb19891\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\d166a8ffd1e137c2517146ccba3d726d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\d166a8ffd1e137c2517146ccba3d726d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d6832c48622bccf5078b267ab0489427\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d6832c48622bccf5078b267ab0489427\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\7f759dea296332d8292533c75bcad289\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\7f759dea296332d8292533c75bcad289\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\30a9fdcb73a247744d0c4d1128089132\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\30a9fdcb73a247744d0c4d1128089132\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\c1a15590e2cdd9a5201931dfa168479f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\c1a15590e2cdd9a5201931dfa168479f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\5bf7987fe863fcf594f355a8829adcc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\5bf7987fe863fcf594f355a8829adcc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\6aae1ae0a29856538d66c62fb8f2977c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\6aae1ae0a29856538d66c62fb8f2977c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\778dded80d4020e7b6033cc66fb51ec7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\778dded80d4020e7b6033cc66fb51ec7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\66c2506dc8efedc7840b3acaf991af97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\66c2506dc8efedc7840b3acaf991af97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\92fefd1ac11b810755b24d32e1719967\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\92fefd1ac11b810755b24d32e1719967\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6135de56568ba371d766855a3ca50004\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6135de56568ba371d766855a3ca50004\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cc81f7021502b0111b075649ae937c12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cc81f7021502b0111b075649ae937c12\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bde5b53f2f7e00a459e3fc59de83377c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bde5b53f2f7e00a459e3fc59de83377c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e2a440b379864860fb92de60c6c14a59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e2a440b379864860fb92de60c6c14a59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\f7afa649be8f10d42356897c631cc1fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\f7afa649be8f10d42356897c631cc1fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0b278676ce4066a54bbdc711a568b690\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0b278676ce4066a54bbdc711a568b690\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a46cd3a019fbd8b1518c575663235f67\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a46cd3a019fbd8b1518c575663235f67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\487cbd312d21b0565361e7963b365a8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\487cbd312d21b0565361e7963b365a8d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3c5dec58d05f026da84171fabe187636\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3c5dec58d05f026da84171fabe187636\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f579896355bcde89c69996631f309d60\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f579896355bcde89c69996631f309d60\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3766673450c35e09583049594045adf3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ROLDY\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3766673450c35e09583049594045adf3\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\sampleapp\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [:linkedin-sdk] C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\linkedin-sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [:linkedin-sdk] C:\Users\ROLDY\Downloads\SOCIALMEDIAPLATFORMS\linkedin-sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-64
